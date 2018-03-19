@@ -1,0 +1,6 @@
+.classpath
+.project
+.settings/
+docker-compose.yml
+target/
+
